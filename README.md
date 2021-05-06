@@ -12,11 +12,11 @@ of tickers without having to read through the rows of data several times.
 
 ### Summary: 
 
-# 1. What are the advantages or disadvantages of refactoring code?
+## 1. What are the advantages or disadvantages of refactoring code?
 
 An advantage to using refractoring code is saving time on typing the same statement over and over. With this risk comes with the challenge of paying attention to detail. Because of how easy it is to copy and paste, it's even harder to walk through the logic if you know it's already worked somewhere else. 
 	
-# 2.How do these pros and cons apply to refactoring the original VBA script?
+## 2.How do these pros and cons apply to refactoring the original VBA script?
  
  A pro for refratcoring for the challenge is the calculations and variables of the prices can stay the same. It was easier to read and understand since the logic was used during the module. The disadvantage is finding yourself in a situation of having to debug several errors and time is easily wasted on searching for an answer.
 	
