@@ -8,7 +8,7 @@ In 2017 all the stocks had a positive return except for TERP. DQ and SEDG were t
 
 The run time for the original module script is about 0.75 seconds for both years. With the refractored code for both years the run time is about 0.2 seconds. Adding the ticker index allowed the computer to recall the list of tickers without having to read through the rows of data several times. Below is a screen shot of the 2018 run times for the original and refractored code. 
 	
-	![2018_original](https://user-images.githubusercontent.com/82127584/117237068-ba573b00-adef-11eb-9411-91e5fa4e56f1.PNG)
+	![2018_original](https://user-images.githubusercontent.com/82127584/117237571-da3b2e80-adf0-11eb-80a9-8ac061780c38.PNG)
 	
 	Original runtime 2018
 	
